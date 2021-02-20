@@ -3,3 +3,10 @@
   background-size: cover;
   font-size: 33px;
 }
+.footer{
+	background-color: #007bff;
+	color: #fff;
+}
+.footer a{
+	color:#171717;
+}
